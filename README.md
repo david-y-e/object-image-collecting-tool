@@ -4,7 +4,7 @@ A simple tool for collecting object images (without background).
 ## Screenshot
 ![UI](./screenshots/screenshot.png)
 
-## Note:
+## Note
 * Background removal can only be performed on simple backgrounds with single color.
 * The background is removed using the threshold of pixel values or by the Canny algorithm.
 
