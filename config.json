@@ -1,0 +1,12 @@
+{
+  "CONFIG": {
+    "CAMERA_TOPIC": "/camera/color/image_raw",
+    "CLASSES": ["test1", "test2", "test3"],
+    "GUIDE_XMIN": 200,
+    "GUIDE_YMIN": 140,
+    "GUIDE_XMAX": 440,
+    "GUIDE_YMAX": 340,
+    "GUIDE_OFFSET_SCALE": 2,
+    "GUIDE_CONTROL_SCALE": 2
+  }
+}
