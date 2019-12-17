@@ -24,7 +24,7 @@ A simple tool for collecting object images (without background).
 
 ``` python object-image-collector.py ```
 
-4. Press *start* button (Camera topic should be streamed to the screen).
+4. Press **start** button (Camera topic should be streamed to the screen).
 5. Set the followings.
 * Background
 * Threshold
@@ -33,4 +33,4 @@ A simple tool for collecting object images (without background).
 6. Set the path to save the image.
 7. Select the class to collect images.
 8. Adjust the threshold appropriately via the preview button.
-9. Press *Capture* button.
+9. Press **Capture** button.
