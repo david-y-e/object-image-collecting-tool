@@ -17,7 +17,7 @@ A simple tool for collecting object images (without background).
 
 ## Usage
 1. Change ***config.json*** according to your configuration.
-* CAMERA_TOPIC: your camera topic name on ROS
+* CAMERA_TOPIC: Your camera topic name on ROS
 * CLASSES: Class list (object images are named according to this list.)
 2. Run your camera node.
 3. Run object image collecting tool
